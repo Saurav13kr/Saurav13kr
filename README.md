@@ -1,3 +1,4 @@
+![logo](https://github.com/Saurav13kr/Saurav13kr/blob/main/Github%20Banner.png.jfif)
 <h1 align="center">Hi 👋, I'm Saurav Kumar</h1>
 <h3 align="center">A passionate MERN Stack developer from India</h3>
 
