@@ -6,7 +6,6 @@
 
 - 🌍 I'm based in India
 - 🌱 I’m currently SDE 
-- ✉️ You can contact me at [saurav1309kumar@gmail.com](mailto:saurav1309kumar@gmail.com)
 - 🧠 I'm learning MEAN Stack
 - ⚡ I have a passion for organizing and participating in various types of events, capturing moments through photography, and analyzing stock market trends. 
 
