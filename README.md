@@ -1,13 +1,13 @@
 ![logo](https://github.com/Saurav13kr/Saurav13kr/blob/main/Github%20Banner.png.jfif)
 <br>
 # Hello There ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-## Saurav this side, Full Stack Developer.
+## Saurav this side.
 <br>
 
-- 🌍 I'm based in India
-- 🌱 I’m currently SDE 
-- 🧠 I'm learning MEAN Stack
-- ⚡ I have a passion for organizing and participating in various types of events, capturing moments through photography, and analyzing stock market trends. 
+- 🌍 Core Competencies: Product Management, Business Analysis, Financial Analysis, Problem Solving, Analytical Thinking and Data-Driven Decision Making.
+- 🌱 Technical Skills: C++, Python, JavaScript, Java, React.js, Node.js, Express.js, Nest.js, MongoDB, MySQL, Firebase and RESTful APIs.
+- 🧠 I bring a blend of business understanding, financial acumen, and technical expertise, backed by hands-on experience in Software Development and Full Stack Development.
+- ⚡ I’m passionate about continuous learning and self-improvement. Aspiring to combine my expertise in Product Management, Finance and technology to drive strategic business decisions, build impactful products and deliver measurable business value.
 
 ### Skills
 
