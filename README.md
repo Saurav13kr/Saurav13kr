@@ -9,6 +9,29 @@
 - 🧠 I bring a blend of business understanding, financial acumen, and technical expertise, backed by hands-on experience in Software Development and Full Stack Development.
 - ⚡ I’m passionate about continuous learning and self-improvement. Aspiring to combine my expertise in Product Management, Finance and technology to drive strategic business decisions, build impactful products and deliver measurable business value.
 
+
+<h2 align="left">🌐 Connect With Me</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saurav-13-kumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
+
+<h2 align="left">💻 Coding Profiles</h2>
+
+<p align="left">
+  <a href="https://leetcode.com/u/saurav13kr/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/profile/saurav1309kumar?tab=activity/" target="_blank">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+  </a>
+
+</p>
+
+
 ### Skills
 
 <p align="left">
